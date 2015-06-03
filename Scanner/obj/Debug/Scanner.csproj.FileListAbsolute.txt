@@ -1,0 +1,7 @@
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\bin\Debug\Scanner.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\bin\Debug\Scanner.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\obj\Debug\Scanner.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\obj\Debug\Scanner.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\bin\Debug\Tokens.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Scanner\bin\Debug\Tokens.pdb

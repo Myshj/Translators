@@ -1,0 +1,5 @@
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Tokens\bin\Release\Tokens.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Tokens\bin\Release\Tokens.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Tokens\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Tokens\obj\Release\Tokens.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Tokens\obj\Release\Tokens.pdb

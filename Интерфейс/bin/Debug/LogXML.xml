@@ -1,0 +1,37 @@
+<program type="PROCEDURE &lt;procedure-identifier&gt;&lt;parameters-list&gt;;&lt;block&gt;;">
+  <procedure-identifier type="identifier">PROCEDURE1</procedure-identifier>
+  <parameters-list type="(&lt;declarations-list&gt;)" />
+  <declarations-list />
+  <block type="&lt;declarations&gt;BEGIN&lt;statements-list&gt;END">
+    <declarations>
+      <constant-declarations>
+        <constant-declarations-list>
+          <constant-declaration type="&lt;constant-identifier&gt;=&lt;constant&gt;;">
+            <constant-identifier type="&lt;identifier&gt;">CONST1</constant-identifier>
+            <constant type="&lt;unsigned-integer&gt;">
+              <unsigned-integer>10</unsigned-integer>
+            </constant>
+          </constant-declaration>
+          <constant-declarations-list>
+            <constant-declaration type="&lt;constant-identifier&gt;=&lt;constant&gt;;">
+              <constant-identifier type="&lt;identifier&gt;">CONST2</constant-identifier>
+              <constant type="-&lt;unsigned-integer&gt;">
+                <unsigned-integer>10</unsigned-integer>
+              </constant>
+            </constant-declaration>
+            <constant-declarations-list>
+              <constant-declaration type="&lt;constant-identifier&gt;=&lt;constant&gt;;">
+                <constant-identifier type="&lt;identifier&gt;">C</constant-identifier>
+                <constant type="&lt;unsigned-integer&gt;">
+                  <unsigned-integer>20</unsigned-integer>
+                </constant>
+              </constant-declaration>
+              <constant-declarations-list />
+            </constant-declarations-list>
+          </constant-declarations-list>
+        </constant-declarations-list>
+      </constant-declarations>
+    </declarations>
+    <statements-list />
+  </block>
+</program>

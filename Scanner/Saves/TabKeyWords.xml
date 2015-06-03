@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <token>
+     <name>PROCEDURE</name>
+	 <number>401</number>
+  </token>
+  <token>
+     <name>CONST</name>
+	 <number>402</number>
+  </token>
+  <token>
+     <name>BEGIN</name>
+	 <number>403</number>
+  </token>
+  <token>
+     <name>END</name>
+	 <number>404</number>
+  </token>
+</table>

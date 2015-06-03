@@ -1,0 +1,16 @@
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Интерфейс.exe
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Интерфейс.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\Интерфейс.Form1.resources
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\Интерфейс.Properties.Resources.resources
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\Интерфейс.csproj.GenerateResource.Cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\Интерфейс.exe
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\obj\Debug\Интерфейс.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Scanner.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Scanner.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Tokens.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Tokens.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Parser.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\Parser.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\CodeGenerator.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\Интерфейс\bin\Debug\CodeGenerator.pdb

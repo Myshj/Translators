@@ -1,0 +1,28 @@
+.386
+
+.CODE
+
+PROCEDURE1	PROC
+
+	PUSH EBP;
+
+	MOV EBP, ESP;
+
+	PUSH ESI;
+
+		CONST1 EQU 10;
+
+		CONST2 EQU -10;
+
+		C EQU 20;
+
+		nop;
+
+	POP ESI;
+
+	POP EBP;
+
+	RET;
+
+PROCEDURE1	ENDP
+

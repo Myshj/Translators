@@ -1,0 +1,7 @@
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\bin\Debug\Tokens.dll
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\Translators\CodeGenerator\bin\Debug\Tokens.pdb

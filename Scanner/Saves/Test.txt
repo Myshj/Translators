@@ -1,0 +1,9 @@
+PROCEDURE PROCEDURE1 ();
+CONST CONST1 = 10;(*
+**kjkjl
+*/jjh
+*)
+      CONST2 = -10;
+      C = 20;
+BEGIN
+END;

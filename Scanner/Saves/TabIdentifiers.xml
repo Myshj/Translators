@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <token>
+     <name>INTEGER</name>
+	 <number>1001</number>
+  </token>
+  <token>
+     <name>FLOAT</name>
+	 <number>1002</number>
+  </token>
+</table>

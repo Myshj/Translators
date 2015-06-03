@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+	<token>
+     <name> 	
+	 </name>
+	 <number>0</number>
+  </token>
+  <token>
+     <name>0123456789</name>
+	 <number>1</number>
+  </token>
+  <token>
+     <name>ABCDEFGHIJKLMNOPQRSTUVWXYZ</name>
+	 <number>2</number>
+  </token>
+  <token>
+     <name>:;=-()</name>
+	 <number>3</number>
+  </token>
+</table>
